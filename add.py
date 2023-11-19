@@ -6,3 +6,5 @@ print(f'The addition of 2 numbers is',a+b)
 print(f'The difference of 2 numbers is',a-b)
 
 #feature 3 added
+
+print(f'The prod of 2 numbers is',a*b)
